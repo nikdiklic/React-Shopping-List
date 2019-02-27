@@ -1,13 +1,13 @@
 {
-  "main.css": "/my-app/static/css/main.827fe8dd.chunk.css",
-  "main.js": "/my-app/static/js/main.3e246f34.chunk.js",
-  "main.js.map": "/my-app/static/js/main.3e246f34.chunk.js.map",
-  "runtime~main.js": "/my-app/static/js/runtime~main.caff8f44.js",
-  "runtime~main.js.map": "/my-app/static/js/runtime~main.caff8f44.js.map",
-  "static/js/2.787b5316.chunk.js": "/my-app/static/js/2.787b5316.chunk.js",
-  "static/js/2.787b5316.chunk.js.map": "/my-app/static/js/2.787b5316.chunk.js.map",
-  "index.html": "/my-app/index.html",
-  "precache-manifest.d69d6eb1e3ae4b610b3b7103d0cda47c.js": "/my-app/precache-manifest.d69d6eb1e3ae4b610b3b7103d0cda47c.js",
-  "service-worker.js": "/my-app/service-worker.js",
-  "static/css/main.827fe8dd.chunk.css.map": "/my-app/static/css/main.827fe8dd.chunk.css.map"
+  "main.css": "/React-Shopping-List/static/css/main.827fe8dd.chunk.css",
+  "main.js": "/React-Shopping-List/static/js/main.e298dbb1.chunk.js",
+  "main.js.map": "/React-Shopping-List/static/js/main.e298dbb1.chunk.js.map",
+  "runtime~main.js": "/React-Shopping-List/static/js/runtime~main.ad929cc7.js",
+  "runtime~main.js.map": "/React-Shopping-List/static/js/runtime~main.ad929cc7.js.map",
+  "static/js/2.787b5316.chunk.js": "/React-Shopping-List/static/js/2.787b5316.chunk.js",
+  "static/js/2.787b5316.chunk.js.map": "/React-Shopping-List/static/js/2.787b5316.chunk.js.map",
+  "index.html": "/React-Shopping-List/index.html",
+  "precache-manifest.3b3babc6e3df25aaf82d9a583982d3a3.js": "/React-Shopping-List/precache-manifest.3b3babc6e3df25aaf82d9a583982d3a3.js",
+  "service-worker.js": "/React-Shopping-List/service-worker.js",
+  "static/css/main.827fe8dd.chunk.css.map": "/React-Shopping-List/static/css/main.827fe8dd.chunk.css.map"
 }
